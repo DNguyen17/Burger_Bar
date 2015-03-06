@@ -4,6 +4,9 @@ https://github.com/RSWSMUGirl2016/Burger_Bar
 Link to Website
 http://162.243.227.48/Burger_Bar/
 
+Link to Apiary Documentation
+http://docs.burgerbar4.apiary.io/#
+
 Burger_Bar
 ===========
 
